@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+textarea, input[type="text"] {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+#urlsInput {
+  height: 250px;
+}
+
+#newURLInput {
+  margin-right: 350px;
+}
+
+#addURLBtn {
+  background-color: #2196F3;
+}
+
+#addURLBtn:hover {
+  background-color: #0b7dda;
+}
